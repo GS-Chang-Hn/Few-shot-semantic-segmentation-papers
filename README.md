@@ -1,4 +1,4 @@
-# **Few-shot-semantic-segmentation-papers** (From 2018 to 2022)
+# **Few shot semantic segmentation papers** (From 2018 to 2022)
 NOTE: If your paper is not in the list, plese feel free to drop me an e-mail.
 # **2023**
 |Title| Publish| pdf | code |  
