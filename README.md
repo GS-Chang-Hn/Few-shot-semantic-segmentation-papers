@@ -15,3 +15,4 @@ NOTE: If your paper is not in the list, plese feel free to drop me an e-mail.
 |SSP|ECCV|https://link.springer.com/article/10.1007/s00521-023-08758-9|https://github.com/fanq15/SSP.|
 |DPCN|CVPR|https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Dynamic_Prototype_Convolution_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf|
 |NERTNet|CVPR|https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Dynamic_Prototype_Convolution_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf|https://github.com/LIUYUANWEI98/NERTNet|
+|IPMT|NeurIPS|https://proceedings.neurips.cc/paper_files/paper/2022/file/f7fef21d1fb3e950b12b50ad7f395e31-Paper-Conference.pdf|https://github.com/LIUYUANWEI98/IPMT|
