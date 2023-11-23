@@ -1,5 +1,6 @@
 # **Few shot semantic segmentation papers** (From 2018 to 2022)
 NOTE: If your paper is not in the list, plese feel free to drop me an e-mail.
+For more information on few-shot semantic segmentation, you can refer to our review article (Few-Shot Semantic Segmentation: A Review on Recent Approaches) published in Neural Computing and Applications.
 # **2023**
 |Title| Publish| pdf | code |  
 | --- | --- | --- | --- |  
