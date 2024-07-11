@@ -16,6 +16,7 @@ https://www.researchgate.net/profile/Zhaobin-Chang
 |PFENet++|TPAMI|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10305430|
 |RPMG-FSS|TCSVT|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093904|https://github.com/dxzxy12138/RPMG-FSS/tree/master|
 |BAM|TPAMI|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10098188|https://github.com/chunbolang/BAM|
+|RARE|TIP|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10256677|https://github.com/chunbolang/RARE|
 |Review paper|NCAA|https://link.springer.com/article/10.1007/s00521-023-08758-9| |
 # **2022**
 |Title| Publish| pdf | code |  
