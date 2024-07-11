@@ -10,7 +10,7 @@ https://www.researchgate.net/profile/Zhaobin-Chang
 | --- | --- | --- | --- |  
 |DSPNet|MIA|https://arxiv.org/abs/2406.18074|https://github.com/tntek/DSPNet|  
 |CGMGM|AAAI|https://doi.org/10.1609/aaai.v38i5.28280||
-|RiFeNet|AAAI|file:///C:/Users/forever/Downloads/27834-Article%20Text-31888-1-2-20240324%20(2).pdf||
+|RiFeNet|AAAI|https://doi.org/10.1609/aaai.v38i2.27834||
 |DGFPNet|TMM|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10485569|https://github.com/ChunLinWen/DGFPNet|
 |DRNet|TCSVT|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10414072|https://github.com/GS-Chang-Hn/DRNet-fss|  
 
