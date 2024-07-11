@@ -13,6 +13,7 @@ https://www.researchgate.net/profile/Zhaobin-Chang
 |RiFeNet|AAAI|https://doi.org/10.1609/aaai.v38i2.27834||
 |DGFPNet|TMM|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10485569|https://github.com/ChunLinWen/DGFPNet|
 |DRNet|TCSVT|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10414072|https://github.com/GS-Chang-Hn/DRNet-fss|  
+|DR-Adapter|CVPR|https://openaccess.thecvf.com/content/CVPR2024/papers/Su_Domain-Rectifying_Adapter_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2024_paper.pdf|https://github.com/Matt-Su/DR-Adapter|  
 
 # **2023**
 |Title| Publish| pdf | code |  
