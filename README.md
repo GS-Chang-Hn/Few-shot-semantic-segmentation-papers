@@ -4,6 +4,12 @@ NOTE: If your paper is not in the list, plese feel free to drop me an e-mail.
 For more information on few-shot semantic segmentation, you can refer to our review article (Few-Shot Semantic Segmentation: A Review on Recent Approaches) published in Neural Computing and Applications. 
 
 https://www.researchgate.net/profile/Zhaobin-Chang
+
+# **2024**
+|Title| Publish| pdf | code |  
+| --- | --- | --- | --- |  
+|DRNet|TCSVT|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10414072|https://github.com/GS-Chang-Hn/DRNet-fss|  
+
 # **2023**
 |Title| Publish| pdf | code |  
 | --- | --- | --- | --- |  
