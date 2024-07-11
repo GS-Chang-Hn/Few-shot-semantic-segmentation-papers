@@ -8,8 +8,10 @@ https://www.researchgate.net/profile/Zhaobin-Chang
 |Title| Publish| pdf | code |  
 | --- | --- | --- | --- |  
 |FECANet|TMM| https://arxiv.org/pdf/2301.08160.pdf | https://github.com/NUST-Machine-Intelligence-Laboratory/FECANET.|  
-|MIANet|CVPR| [https://arxiv.org/pdf/2301.08160.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_MIANet_Aggregating_Unbiased_Instance_and_General_Information_for_Few-Shot_Semantic_CVPR_2023_paper.pdf) | https://github.com/Aldrich2y/MIANet.|
+|API|PR|https://doi.org/10.1016/j.patcog.2023.109726||  
+|MIANet|Neurips|https://proceedings.neurips.cc/paper_files/paper/2023/file/6447714b83edcbed61dbe10371dd7ae5-Paper-Conference.pdf|https://github.com/Wyxdm/AMNet|
 |SRPNet|PR|https://doi.org/10.1016/j.patcog.2022.109018||
+|AMNet|NIPS|https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Self-Calibrated_Cross_Attention_Network_for_Few-Shot_Segmentation_ICCV_2023_paper.pdf|https://github.com/Sam1224/SCCAN|
 |RPMG-Fss|TCSVT|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093904|https://github.com/dxzxy12138/RPMG-FSS/tree/master|
 |HDMNet|CVPR|https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Hierarchical_Dense_Correlation_Distillation_for_Few-Shot_Segmentation_CVPR_2023_paper.pdf|https://github.com/Pbihao/HDMNet|
 |QCLNet|TCSVT|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954424|
